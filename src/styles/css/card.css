@@ -1,0 +1,16 @@
+.card{
+    border-radius: 15px;
+    width: 100%;
+    /* border: none; */
+    background: #0F52BA;
+    box-shadow:  
+    inset -3px -3px 15px 2px #043B90,
+    -7px -7px 7px  #ffffff;
+}
+.card-body{
+    color: #ffffff;
+}
+.pic{
+    width: 100%;
+    height: 16rem;
+}
